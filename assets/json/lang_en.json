@@ -1,0 +1,2541 @@
+{
+	"pages": [
+		{
+			"Login": {
+				"heading": {
+					"text": "LOGIN"
+				},
+				"popupvalidate": {
+					"reset": "true",
+					"updateflg": "banner5"
+				},
+				"number_email_userid": {
+					"label": "REGISTERED MOBILE NUMBER OR EMAIL ID/USER ID<span style='color:red;'>*</span>",
+					"tooltiptext": "Enter your 'Registered Mobile Number or Email ID /User ID' .Enter the 'User ID' which was created during registration / used to login to PNB Metlife website.",
+					"userNameError1": "Please enter a valid User ID / Registered Mobile / E-Mail ID."
+				},
+				"dob": {
+					"label": "DATE OF BIRTH<span style='color:red;'>*</span>",
+					"tooltiptext": "Enter your date of birth.",
+					"dobRequired": "Enter your date of birth as mentioned in your policy."
+				},
+				"password": {
+					"label": "PASSWORD<span style='color:red;'>*</span>",
+					"tooltiptext": "The password needs to be :<br> 1. Min length 6 characters,Max length 20 characters <br>2.Special characters allowed !.()[]`~ <br>3.Contain at least one numeric,one alphabet & one special character.",
+					"passwordRequired": "Please enter your password.",
+					"invalidpassword": "Password should be as per the rules."
+				},
+				"checkbox": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to PNB Metlife,its officers,affilates, agents or vendors using the information provided/being provided by me to contact me in future for soliciting insurance business <a href='https://www.pnbmetlife.com/privacy-policy.html'>Privacy Policy </a> &",
+					"disclaimer": "Disclaimer",
+					"labeltext": ""
+				},
+				"LoginButton": {
+					"label": "LOGIN",
+					"errormsg": "Password should be as per the rules."
+				},
+				"ForgotuserId": {
+					"label": "Forgot User ID ?"
+				},
+				"ForgotPassword": {
+					"label": "Forgot Password?"
+				},
+				"loginwithdiff": {
+					"label": "Login as different User?"
+				},
+				"mobileoremail": {
+					"label": "Please enter valid Mobile / Email ID."
+				},
+				"mobilenoreq": {
+					"label": "Please enter your mobile number."
+				},
+				"diclaimercontent": "PNB MetLife India Insurance Company Limited, Registered office address: <br> Unit No. 701, 702 & 703, 7th Floor, West Wing, Raheja Towers, 26/27 M G Road, Bangalore -560001, Karnataka IRDAI Registration number 117. CI No. U66010KA2001PLC028883.For more details on risk factors, terms and conditions, please read the sales brochure carefully before concluding the sale. The marks 'PNB' and 'MetLife' are registered trademarks of Punjab National Bank and Metropolitan Life Insurance Company,respectively. PNB MetLife India Insurance Company Limited is a licensed user of these marks.<br><br>BEWARE OF SPURIOUS/FRAUD PHONE CALLS!<br><br> IRDAI is not involved in activities like selling policies, announcing bonus or investment of premiums. Public receiving such phone calls are requested to lodge a police complaint. <br><br>Call us Toll-free at 1-800-425-6969, <br>Website: <a href='https://www.pnbmetlife.com'>www.pnbmetlife.com</a>, Email: <a href='mailto:indiaservice@pnbmetlife.co.in'>indiaservice@pnbmetlife.co.in.</a> or write to us 1st Floor,Techniplex -1, Techniplex Complex, Off Veer Savarkar Flyover, Goregaon (West), Mumbai - 400062.<br> Phone: +91-22-41790000, Fax: +91-22-41790203<br>LD/2019-20/060<br><br>AD-F/2019-20/00195",
+				"disclabel": "Disclaimer",
+				"discok": "OK",
+				"userlabel": "User",
+				"agrewithterms": "Please agree with the terms."
+			},
+			"ExistingCustomer": {
+				"heading": {
+					"text": "EXISTING CUSTOMER"
+				},
+				"registeredEmail": {
+					"label": "REGISTERED EMAIL",
+					"tooltiptext": "Enter your registered Email ID.",
+					"errormsg": "Please enter valid Email ID."
+				},
+				"registeredMobile": {
+					"label": "REGISTERED MOBILE",
+					"tooltiptext": "Enter your registered Mobile Number.",
+					"errormsg1": "Please enter your mobile number.",
+					"errormsg2": "Please enter valid mobile number.",
+					"dobRequired": "Enter your date of birth as mentioned in your policy."
+				},
+				"dob": {
+					"label": "DATE OF BIRTH<span style='color:red;'>*</span>",
+					"tooltiptext": "Enter your date of birth as mentioned in your policy. "
+				},
+				"captch": {
+					"label": "Captcha<span style='color:red;'>*</span>",
+					"hint": "Incorrect captcha entered. Please try again",
+					"error": "Please enter a valid captcha"
+				},
+				"button_next": {
+					"label": "NEXT"
+				},
+				"confirmregister": {
+					"label": "User ID<span style='color:red;'>*</span>",
+					"desc": "User ID has to be a combination of alpha numeric & special characters with a maximum length of 20 characters. Click <span style='font-weight: bold;color:#333;font-size: 13px;'>'?'</span> to know more",
+					"tooldesc": "User id should include an alphanumeric & special characters with maximum length of '20' characters only",
+					"invaliduser": "UserID should be as per the rules.",
+					"useridhint": "User ID has to be a combination of alpha numeric & special characters with a maximum length of 20 characters.Click",
+					"icon": "to know more.",
+					"userpasshint": "Short & weak passwords are easy to guess Click",
+					"icon2": "to know the combinations required to create a password.",
+					"useridexist": "Entered UserID already exists"
+				},
+				"createpassword": {
+					"label": "CREATE PASSWORD<span style='color:red;'>*</span>",
+					"desc": "Short & weak passwords are easy to guess. Click <span style='font-weight: bold;color:#333;font-size: 13px;'>'?'</span> to know the combinations required to create a password",
+					"passwordrule": "The password needs to be:<br><br>1. Min length 6 characters, Max length 20 characters<br>2. Special characters allowed !._-()[]`~<br>3. Contain at least one numeric, one alphabet & one special character.",
+					"passwordRequired": "Please enter your password.",
+					"invalidpassword": "Password should be as per the rules.",
+					"reTypePassword": "Please re-enter your password.",
+					"reTypePasswordlabel": "Re-ENTER PASSWORD<span style='color:red;'>*</span>",
+					"passwordmismatch": "Password Mismatch"
+				},
+				"registerbutton": {
+					"label": "REGISTER"
+				}
+			},
+			"confmreg": {
+				"heading": {
+					"text": "ENTER PASSWORD"
+				}
+			},
+			"Newuser": {
+				"heading": {
+					"text": "NEW USER"
+				},
+				"popup": {
+					"label": "Appreciate your patience as I quickly fetch your details from our records."
+				},
+				"NAME": {
+					"label": "NAME<span style='color:red;'>*</span>",
+					"nameValidate": "Name should contain atleast 3 characters.",
+					"checkname": "Please enter your name.",
+					"nameMinlenthError": "Name should contain atleast 3 characters."
+				},
+				"MOBILE": {
+					"label": "MOBILE<span style='color:red;'>*</span>",
+					"checkmob": "Please enter a valid mobile number.",
+					"validatemob": "Please enter a valid mobile number.",
+					"hint": "OTP will be sent on the this number"
+				},
+				"Pincode": {
+					"label": "PIN CODE<span style='color:red;'>*</span>",
+					"hint": "Please enter your city pincode.",
+					"checkpin": "Please enter a valid pincode.",
+					"validatepin": "Pin code should contain atleast 6 digits."
+				},
+				"checkbox": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to PNB Metlife,its officers,affilates, agents or vendors using the information provided/being provided by me to contact me in future for soliciting insurance business <a target='_blank' href='https://www.pnbmetlife.com/privacy-policy.html'>Privacy Policy </a> &",
+					"disclaimer": "Disclaimer",
+					"label1": "",
+					"label2": ""
+				},
+				"loginbutton": {
+					"label": "LOGIN"
+				},
+				"socialmedia": {
+					"orbutton": "OR"
+				},
+				"enterverificationcode": {
+					"label": "ENTER VERIFICATION CODE",
+					"hint": "Enter the verification code<br /> sent on",
+					"hint1": "Enter the verification code<br /> sent on",
+					"hint2": "",
+					"hintregandmail": "Enter the verification code<br /> sent on Registered Mobile No & Email ID."
+				},
+				"verifybtn": {
+					"label": "VERIFY",
+					"error": "Please enter a valid OTP"
+				},
+				"sendotpagain": {
+					"label": "Send OTP Again"
+				},
+				"orButton": {
+					"label": "OR"
+				},
+				"mobilemissing": {
+					"label": "We could not retrieve your mobile number. Please enter your mobile number"
+				},
+				"appname": {
+					"label": "khUshi"
+				},
+				"hellomsg": {
+					"label": "Hello "
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"errormsg": {
+					"label": "OTP timed out"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"resendMaxatempt": {
+					"label": "You have exceeded the maximum attempts of resend OTP. Request to manually close the application and try after sometime"
+				},
+				"nameminlength": {
+					"error": "Name should contain atleast 3 characters."
+				},
+				"diclaimercontent": "PNB MetLife India Insurance Company Limited, Registered office address: <br> Unit No. 701, 702 & 703, 7th Floor, West Wing, Raheja Towers, 26/27 M G Road, Bangalore -560001, Karnataka IRDAI Registration number 117. CI No. U66010KA2001PLC028883.For more details on risk factors, terms and conditions, please read the sales brochure carefully before concluding the sale. The marks 'PNB' and 'MetLife' are registered trademarks of Punjab National Bank and Metropolitan Life Insurance Company,respectively. PNB MetLife India Insurance Company Limited is a licensed user of these marks.<br><br>BEWARE OF SPURIOUS/FRAUD PHONE CALLS!<br><br> IRDAI is not involved in activities like selling policies, announcing bonus or investment of premiums. Public receiving such phone calls are requested to lodge a police complaint. <br><br>Call us Toll-free at 1-800-425-6969, <br>Website: <a href='https://www.pnbmetlife.com'>www.pnbmetlife.com</a>, Email: <a href='mailto:indiaservice@pnbmetlife.co.in'>indiaservice@pnbmetlife.co.in.</a> or write to us 1st Floor,Techniplex -1, Techniplex Complex, Off Veer Savarkar Flyover, Goregaon (West), Mumbai - 400062.<br> Phone: +91-22-41790000, Fax: +91-22-41790203<br>LD/2019-20/060",
+				"disclabel": "Disclaimer",
+				"discok": "OK",
+				"agrewithterms": "Please agree with the terms"
+			},
+			"landingpage": {
+				"heading": {
+					"text": "PRE REGISTER"
+				},
+				"loginbutton": {
+					"label": "LOGIN",
+					"hint": "Login using registered credentials <br />(Mobile No. /Email ID /Website User ID)"
+				},
+				"registerbutton": {
+					"label": "REGISTER",
+					"hint": "For Existing Customers only"
+				},
+				"notacustomerbutton": {
+					"label": "NOT A CUSTOMER YET",
+					"hint": "Do not have a PNB Metlife policy"
+				},
+				"intimateclaim": {
+					"label": "INTIMATE CLAIM",
+					"hint": ""
+				},
+				"hdrimg": {
+					"lbldata": "<ion-row><ion-col><img style='width: 60%;' src='https://akeiradev.uniphore.com/Images/Circle_of_Life_logo.png'></ion-col><ion-col><img style='margin-top: 10px;width: 60%;float: right;' src='https://akeiradev.uniphore.com/Images/logo.PNG'></ion-col></ion-row>"
+				}
+			},
+			"Guidertour": {
+				"status": "SUCCESS",
+				"responseCode": "001",
+				"tourInformation": [
+					{
+						"description": "Get policy related information at your finger tips",
+						"image": "guidedTour/gt_1@2x.png"
+					},
+					{
+						"description": "'Type' or 'Speak' to khUshi",
+						"image": "guidedTour/gt_2@2x.png"
+					},
+					{
+						"description": "Receive notifications for key policy milestones and also set reminders",
+						"image": "guidedTour/gt_3@2x.png"
+					},
+					{
+						"description": "Instant policy related requests like Pay premium,Update your contact details,know your policy related information and much more...",
+						"image": "guidedTour/gt_4@2x.png"
+					},
+					{
+						"description": "Find branch locations nearby you",
+						"image": "guidedTour/gt_5@2x.png"
+					}
+				],
+				"skipbutton": "skip",
+				"donebutton": "Done"
+			},
+			"Sidemenu": [
+				{
+					"role": "new",
+					"title": "Register",
+					"imgName": "assets/images/Register.png",
+					"event": "prospectRegister"
+				},
+				{
+					"role": "new",
+					"title": "Login",
+					"imgName": "assets/images/Login.png",
+					"event": "prospectLogin"
+				},
+				{
+					"role": "all",
+					"title": "FAQ's",
+					"imgName": "assets/images/Faq-01.png",
+					"event": "faqs"
+				},
+				{
+					"role": "existing",
+					"title": "Set Reminder",
+					"imgName": "assets/images/Set-Reminder-01.png",
+					"event": "reminder"
+				},
+				{
+					"role": "new",
+					"title": "Personal Reminder",
+					"imgName": "assets/images/Set-Reminder-01.png",
+					"event": "reminder"
+				},
+				{
+					"role": "all",
+					"title": "Enable khUshi Voice",
+					"imgName": "assets/images/EnablekhUshiVoice-01.png",
+					"event": "settings"
+				},
+				{
+					"role": "existing",
+					"title": "Change Password",
+					"imgName": "assets/images/Changepassword-01.png",
+					"event": "changePassword"
+				},
+				{
+					"role": "all",
+					"title": "Change Language",
+					"imgName": "assets/images/Changelang.png",
+					"event": "changelanguage"
+				},
+				{
+					"role": "all",
+					"title": "Intimate Claim",
+					"imgName": "assets/images/claim.png",
+					"event": "intemateclaim"
+				},
+				{
+					"role": "all",
+					"title": "Customer Health Initiative",
+					"imgName": "assets/images/vas.png",
+					"event": "valueaddedservices"
+				},
+				{
+					"role": "all",
+					"title": "App Demo Video",
+					"imgName": "assets/images/App-Demo-Video-01.png",
+					"event": "watchVideo"
+				},
+				{
+					"role": "all",
+					"title": "Share Feedback",
+					"imgName": "assets/images/feedback-01.png",
+					"event": "feedback"
+				},
+				{
+					"role": "all",
+					"title": "Contact Us",
+					"imgName": "assets/images/Contactus-01.png",
+					"event": "callCustomercare"
+				},
+				{
+					"role": "all",
+					"title": "Rate Us",
+					"imgName": "assets/images/Rateus-01.png",
+					"event": "rate"
+				},
+				{
+					"role": "existing",
+					"title": "Logout",
+					"imgName": "assets/images/power-button-01.png",
+					"event": "logout"
+				}
+			],
+			"vassubmenu": [
+				{
+					"role": "all",
+					"title": "Teleconsultation Facility",
+					"imgName": "assets/images/vasdoctor.png",
+					"event": "teledoctorconsultation"
+				},
+				{
+					"role": "all",
+					"title": "Preventive Healthcare",
+					"imgName": "assets/images/vashealth.png",
+					"event": "healthnwellness"
+				},
+				{
+					"role": "all",
+					"title": "FAQs",
+					"imgName": "assets/images/vasfaq.png",
+					"event": "vasfaq"
+				}
+			],
+			"va": {
+				"shorcut": "Click below to access shortcuts",
+				"listening": "Listening...",
+				"inputtext": "Enter the text",
+				"readmore": "Read more",
+				"file1": "File 1",
+				"file2": "File 2",
+				"file3": "File 3",
+				"submit": "SUBMIT",
+				"updatewithotp": "Update with OTP",
+				"updatewithoutotp": "Update without OTP",
+				"chatsessionexprmsg": "Would you like to continue with your previous conversation?",
+				"oldsessionmsg": "Yes",
+				"newsessionmsg": "No",
+				"copiedmsg": "Message copied",
+				"feedbackmsg": "Please provide feedback for the application.",
+				"setremaindermsg": "I would like to set reminder",
+				"notfoundmsg": "Not found",
+				"audiodisabledmsg": "Sorry, you have poor network.",
+				"delete": "DELETE",
+				"searchtxt": "Search",
+				"deleteconfrm": "Are you sure you want to delete this reminder?",
+				"yes": "Yes",
+				"no": "No",
+				"appofflinechartmsg": "It seems currently the internet connectivity is weak, hence I am unable to respond. However, you can still enter your queries and I will respond once the internet connectivity gets better.",
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"httperrmsg": "It seems you tried to access an insecure site",
+				"otpSendReqmsg": "OTP is sent to your Registered Mobile number",
+				"filedwnldsuccessmsg": "File downloaded.",
+				"filedwnlderrormsg": "Error while downloading a file.",
+				"fileprocesserror": "Something went wrong while reading selected file.",
+				"listeningmsg": "Listening...",
+				"typemsg": "Message",
+				"resultfnd": "result(s) found",
+				"hilabel": "Hi ",
+				"userlabel": "User",
+				"starred": "Star message noted",
+				"unstarred": "Message marked as not a starred message",
+				"msgcopy": "Message copied",
+				"appname": "khUshi"
+			},
+			"alerts": {
+				"vafound": "Founds",
+				"networkmsg": "Connect to network",
+				"unablenetwork": "Seems like you are in a low network. Please check your internet connection and try again",
+				"otpHelpText": "OTP will be sent on this number",
+				"otpSendReq": "OTP will be sent on your registered mobile number",
+				"otpSendReqme": "OTP will be sent on your registered Mobile number and Email id",
+				"exit": "Exit",
+				"callCustomercarePrompt": "This would place a call from your mobile to our customer service Call Center (Call center timings are 10AM to 7PM. IVR will be available 24x7)<br><br>Do you wish to proceed?",
+				"yes": "Yes",
+				"delete": "Delete",
+				"no": "No",
+				"appsupport": "App Support",
+				"RateUs": "Rate Us",
+				"appSupportdesc": "",
+				"exitMessage": "Are you sure you want to exit?",
+				"ok": "Ok",
+				"appRateTitle": "Rate Us",
+				"appRateNow": "Rate Now",
+				"appRateNoThanks": "No Thanks",
+				"appRateDescription": "If you enjoy using this app,would you mind taking a moment to rate it?",
+				"oops": "Oops!",
+				"somethingWentWrong": "Apologies! For some reason this took more time than expected. Request you to please try entering your query again.",
+				"loginErrorHeader": "Unable to login now!",
+				"loginError": "Sorry! Due to some reasons could not login. Please try again after sometime.",
+				"logout": "LOGOUT",
+				"logoutConfirmation": "Are you sure you want to logout?",
+				"networkError": "Seems like you are in a low network.  Please check your internet connection and try again",
+				"clearChatHistroyConfirmation": "Are you sure you want to clear the saved conversation?",
+				"cancel": "CANCEL",
+				"invalidfile": "The selected file seems to be corrupted,Please upload a different file.",
+				"maxfilesizalwd": "Maximum file size allowed is ",
+				"fileprocsserr": "Something went wrong while reading selected file.",
+				"closeConfirmation": "Are you sure you want to close this page?",
+				"sessionexpmsg": "Session Expired.",
+				"invalidcredntlsmsg": "Incorrect Credentials ",
+				"errormsg": "ERROR",
+				"userlabel": "User",
+				"prospectLoginPromptMessage": "Ensure your mobile number or email id is registered in our records against your policy or you have customer portal User ID and Password before proceeding. You will be leaving this page. Kindly confirm",
+				"invalidImage": "Invalid file Format. Only .jpg, . Jpeg, .png, .tiff, .pdf are allowed",
+				"emailques": "How can I update my email id in policy record?",
+				"incorctotp": "OTP entered is incorrect Please try again",
+				"defaultPolicy": "Sorry! Can you please ask your query again"
+			},
+			"vaAssistant": {
+				"contactNumber": "18004256969"
+			},
+			"verify": {
+				"heading": {
+					"text": "ENTER VERIFICATION CODE"
+				}
+			},
+			"Forgotpassword": {
+				"heading": {
+					"text": "FORGOT PASSWORD"
+				},
+				"regmobemail": {
+					"label": "REGISTERED MOBILE NUMBER OR EMAIL ID<span style='color:red;'>*</span>"
+				},
+				"dob": {
+					"label": "DATE OF BIRTH<span style='color:red;'>*</span>"
+				},
+				"userNameError": {
+					"label": "Please enter a valid E-Mail ID / Mobile No."
+				},
+				"userIdInfo1": {
+					"label": "Enter your Registered Mobile Number / Email ID"
+				},
+				"dobrequired": {
+					"label": "Enter your date of birth as mentioned in your policy."
+				},
+				"captch": {
+					"label": "Captcha<span style='color:red;'>*</span>",
+					"hint": "Incorrect captcha entered. Please try again",
+					"error": "Please enter a valid captcha"
+				},
+				"submitbtn": {
+					"label": "SUBMIT"
+				}
+			},
+			"bankform": {
+				"heading": {
+					"text": "UPDATE BANK ACCOUNT"
+				},
+				"ownername": {
+					"label": "Policy Owner Name As Per Bank Records<span style='color:red;'>*</span>"
+				},
+				"bankname": {
+					"label": "Bank Name<span style='color:red;'>*</span>"
+				},
+				"branchname": {
+					"label": "Branch Name<span style='color:red;'>*</span>"
+				},
+				"BankAccountNo": {
+					"label": "Bank Account No<span style='color:red;'>*</span>"
+				},
+				"reBankAccountNo": {
+					"label": "Re-enter Bank Account No<span style='color:red;'>*</span>"
+				},
+				"mismatchaccount": {
+					"label": "Account Number Mismatch"
+				},
+				"ifsccode": {
+					"label": "IFSC Code<span style='color:red;'>*</span>"
+				},
+				"micrcode": {
+					"label": "MICR Code:"
+				},
+				"bankacctype": {
+					"label": "Bank  Account Type<span style='color:red;'>*</span>"
+				},
+				"Savings": {
+					"label": "Savings"
+				},
+				"Current": {
+					"label": "Current"
+				},
+				"NRE": {
+					"label": "NRE*"
+				},
+				"NRO": {
+					"label": "NRO"
+				},
+				"declare": {
+					"label": "* In case of NRI customer, please provide the Customer Declaration-Repatriation Request & Bank Certificate for Repatriation."
+				},
+				"confirm": {
+					"label": "Do you wish to update the above bank details for disbursing all future policy payouts through NEFT:"
+				},
+				"cancelmsg": {
+					"label": "CANCEL"
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"selectproof": {
+					"labelhid": "SELECT PROOF",
+					"label": "SELECT PROOF<span style='color:red;'>*</span>",
+					"aadhar": "Aadhaar Card",
+					"voterid": "Voter Id",
+					"passport": "Passport",
+					"drivinglic": "Driving License",
+					"pancard": "PAN Card",
+					"nrega": "NREGA Job Card"
+				},
+				"proofattachment": {
+					"error": "Please upload valid proof.",
+					"aadharerror": "Please Upload Aadhaar Card image",
+					"votererror": "Please upload Voter Id Image",
+					"pasporterror": "Please upload Passport Image",
+					"panerror": "Please upload PAN Card Image",
+					"nregaerror": "Please upload NREGA Job Card Image",
+					"driverror": "Please upload Driving License Image"
+				},
+				"prooftype": {
+					"error": "Please enter proof type."
+				},
+				"imagemsg": {
+					"frontimg": "Front Image",
+					"backimg": "Back Image",
+					"img": "Upload",
+					"imgtxt": "Image",
+					"showaadhartext": "Upload Aadhaar Card Image",
+					"showvotertext": "Upload Voter Id Image",
+					"showpantext": "Upload Pan Card Image",
+					"showpassporttext": "Upload Passport Image",
+					"shownregatext": "Upload NREGA Job Card Image",
+					"showdrivtext": "Upload Driving license Image",
+					"frontimgerror": "Please upload front image of ",
+					"backimgerror": "Please upload back image of  ",
+					"adhrtxt": "Aadhaar Card",
+					"votrtxt": "Voter Id",
+					"pasporttxt": "Passport",
+					"drivingtxt": "Driving License",
+					"nregatxt": "NREGA Job Card",
+					"adhrtxtemty": "",
+					"votrtxtemty": "",
+					"pasporttxtemty": "",
+					"drivetxtemty": "",
+					"nregatxtempty": ""
+				},
+				"agreecheck": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to the terms and conditions mentioned below:",
+					"error": "Please agree with the terms"
+				},
+				"condtslbl": {
+					"label": "Terms & Conditions:"
+				},
+				"contn1": {
+					"label": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded."
+				},
+				"contn2": {
+					"label": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies."
+				},
+				"contn3": {
+					"label": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card."
+				},
+				"contn4": {
+					"label": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				},
+				"photo": {
+					"label": "Your recent photograph"
+				},
+				"proof": {
+					"label": "Upload your ID proof"
+				},
+				"Front": {
+					"label": "Front Image",
+					"error": "Please upload front image ID proof"
+				},
+				"Back": {
+					"label": "Back Image",
+					"error": "Please upload back image ID proof"
+				},
+				"cheque": {
+					"label": "Cancelled cheque copy"
+				},
+				"Bankstatement": {
+					"label": "Bank Statement"
+				},
+				"agree": {
+					"label": "<span style='color:red;'>*</span>I agree with the Terms & Conditions specified in the notice appearing below"
+				},
+				"condition": {
+					"label": "I hereby confirm having read and understood all the policy terms and conditions including those applicable to this request. I understand and accept that my request shall be processed in accordance with the terms and conditions of the policy and that I shall be solely responsible for all the consequences arising out of this request."
+				},
+				"submit": {
+					"label": "SUBMIT"
+				},
+				"yes": "Yes",
+				"no": "No",
+				"uploadrecentphoto": {
+					"label": "Upload a selfie"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"policyownererror": "Please enter policy owner name",
+				"banknameerror": "Please enter bank name",
+				"branchnameerror": "Please enter branch name",
+				"bankAccnumbererror": "Please enter bank account number",
+				"reEnterbankAccnumbererror": "Please enter bank account number",
+				"ifscCodeerror": "Please enter a valid IFSC Code",
+				"ifscCodelenerror": "Please enter a valid IFSC Code",
+				"bankAccnumbercheckerror": "Please enter a valid Bank Acc. no",
+				"validaccno": "please enter a valid account no.",
+				"mismatchbankaccno": "Mismatch the Bank Acc. no and Re-Type Bank Acc. no",
+				"reenterbankAccnumbercheckerror": "Please enter valid Re-Type Bank Acc. no",
+				"accnttypecodeerror": "Please select a Account type Code",
+				"choseneft": "Please choose a NEFT",
+				"recentphoto": "Please upload your recent photograph",
+				"uplodidproof": "Please upload ID Proof",
+				"cancelcheck": "Upload your cancelled cheque copy",
+				"bankstatmnt": "Upload your bank statement",
+				"cancelcheckorbankstmt": "Cheque copy to consist of pre-printed a/c no. & pre-printed name of Policy Owner. Bank statement / pass book should have Bank name, IFSC code, Account holder's name &  Account number",
+				"fileprocess": {
+					"error": "Something went wrong while reading selected file."
+				},
+				"agreeerrmsg": {
+					"label": "Please agree with the terms"
+				},
+				"uploadmsg": {
+					"lblhrd": "Uploading the images …",
+					"lbltitle": "All the images are now uploaded. Please click the below button to submit your request",
+					"label": "Password Protected Document",
+					"lblmsg": "Document/s you are trying to upload is password protected. Please check and re-submit non password protected document",
+					"img1": "Selfie / Recent Photograph",
+					"img2": "Front Image",
+					"img3": "Back Image",
+					"img4": "Cancelled Cheque Copy",
+					"img5": "Bank Statement"
+				}
+			},
+			"Changepassword": {
+				"heading": {
+					"text": "CHANGE PASSWORD"
+				},
+				"oldpassword": {
+					"label": "OLD PASSWORD<span style='color:red;'>*</span>",
+					"oldpasswordRequired": "Please enter your old password.",
+					"passwordMinlenthError": "Password should contain atleast 6 characters."
+				},
+				"newpassword": {
+					"label": "NEW PASSWORD<span style='color:red;'>*</span>",
+					"hint": "Short & weak passwords are easy to guess. Click '?' to know the combinations required to create a password",
+					"tooltip": "The password needs to be:<br />1 . Min length 6 characters , Max length 20 characters<br />2 . Special characters allowed !._-()[]'~<br />3 . Contain at least one numeric, one alphabet & one special character.",
+					"errormsg": "Please enter your password.",
+					"passwordRequired": "Please enter your password.",
+					"invalidpassword": "Password should be as per the rules."
+				},
+				"reenterpassword": {
+					"label": "RE-TYPE NEW PASSWORD<span style='color:red;'>*</span>",
+					"reTypePassword": "Please re-enter your password.",
+					"invalidpassword": "Password should be as per the rules."
+				},
+				"passwordmismatch": {
+					"label": "Password Mismatch"
+				},
+				"submitbtn": {
+					"label": "SUBMIT"
+				},
+				"shortweekpwdmsg": {
+					"label": "Short & weak passwords are easy to guess Click"
+				},
+				"combtntocretpwd": {
+					"label": "to know the combinations required to create a password.",
+					"hint2": "to know the combinations required to create a password."
+				}
+			},
+			"nominee": {
+				"heading": {
+					"text": "UPDATE NOMINEE"
+				},
+				"subheading": {
+					"text": "Add Nominee"
+				},
+				"exitingnominee_popup": {
+					"label": "Do you wish to continue with any of the below existing nominee/s?",
+					"yes": "Yes",
+					"no": "No"
+				},
+				"addnominee_popup": {
+					"normal_label": "Do you wish to",
+					"bold_label": "ADD any other nominee?",
+					"yes": "Yes",
+					"no": "No"
+				},
+				"nominee_count": {
+					"label": "Nominee"
+				},
+				"remove": {
+					"label": "Remove"
+				},
+				"salutation": {
+					"label": "Salutation<span style='color:red;'>*</span>",
+					"error": "Please enter salutation."
+				},
+				"select_salutation": {
+					"labelhid": "Select Salutation",
+					"label": "Select Salutation<span style='color:red;'>*</span>"
+				},
+				"firstname": {
+					"label": "First Name<span style='color:red;'>*</span>",
+					"error": "Please enter first name."
+				},
+				"surname": {
+					"label": "Surname<span style='color:red;'>*</span>",
+					"error": "Please enter surname."
+				},
+				"dateofbirth": {
+					"label": "Date Of Birth<span style='color:red;'>*</span>",
+					"error": "Please enter date of birth."
+				},
+				"gender": {
+					"select_genderhid": "Select Gender",
+					"label": "Gender",
+					"select_gender": "Select Gender<span style='color:red;'>*</span>",
+					"malelabel": "Male",
+					"femalabel": "Female",
+					"otherlabel": "Other",
+					"error": "Please enter gender"
+				},
+				"marital": {
+					"labelhid": "Select Marital Status",
+					"select_genderhid": "Select Salutation",
+					"label": "Select Marital Status<span style='color:red;'>*</span>",
+					"single": "Single",
+					"married": "Married",
+					"unmarried": "Unmarried",
+					"others": "Others",
+					"divorced": "Divorced",
+					"widowed": "Widowed",
+					"error": "Please enter marital status."
+				},
+				"relation": {
+					"label": "Relation with Insurer",
+					"select_relation": {
+						"labelhid": "Select Relation",
+						"label": "Select Relation<span style='color:red;'>*</span>",
+						"error": "Please enter relation"
+					}
+				},
+				"nationality": {
+					"label": "Nationality",
+					"select_nation": {
+						"labelhid": "Select Nationality",
+						"label": "Select Nationality<span style='color:red;'>*</span>",
+						"error": "Please enter nationality."
+					}
+				},
+				"resident": {
+					"label": "Resident Country",
+					"select_resident": {
+						"labelhid": "Select Resident",
+						"label": "Select Resident<span style='color:red;'>*</span>",
+						"error": "Please enter resident."
+					}
+				},
+				"address": {
+					"label": "Address<span style='color:red;'>*</span>",
+					"error": "Please enter address."
+				},
+				"country": {
+					"labelhid": "Country",
+					"label": "Country<span style='color:red;'>*</span>",
+					"select_country": {
+						"label": "Select Country",
+						"error": "Please enter country."
+					}
+				},
+				"pincode": {
+					"label": "Pin code<span style='color:red;'>*</span>",
+					"errMsg": "Pincode should be 6 digits",
+					"invalidpin": "Invalid Pincode",
+					"validpincode": "Please enter valid pincode."
+				},
+				"city": {
+					"label": "City<span style='color:red;'>*</span>",
+					"error": "Please enter city."
+				},
+				"state": {
+					"label": "State<span style='color:red;'>*</span>",
+					"error": "Please enter state."
+				},
+				"addanothernominee": {
+					"label": " Do you wish to add another nominee?",
+					"yes": "Yes",
+					"no": "No"
+				},
+				"sharingper_nominee": {
+					"label": "Please provide the sharing % of the nominee's",
+					"nominee_label": "Nominee",
+					"appointee_label": "Appointee",
+					"sharingpercent": "% of sharing"
+				},
+				"totalpercentgtsum": {
+					"label": "Total share % should be 100%"
+				},
+				"sharingpercentempty": {
+					"label": "Sharing % for Nominee should not be empty",
+					"error": "No Nominee Details Found"
+				},
+				"totalpercentltsum": {
+					"label": "Total share % should be 100%",
+					"alerterr": "Sharing Must be a 100%"
+				},
+				"updatenomineebtn": {
+					"label": "UPDATE NOMINEE",
+					"missingfielderr": "Please fill the all nominees mandatory fields."
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"agecondtion": {
+					"label": "Please add an Appointee as the Nominee age is less than 18 years"
+				},
+				"yes": {
+					"label": "ADD APPOINTEE"
+				},
+				"no": {
+					"label": "CANCEL"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"removeNominee": "Are you sure you want to remove nominee?",
+				"yesremovenominee": "Remove Nominee",
+				"noremovenominee": "Cancel"
+			},
+			"addappointee": {
+				"heading": {
+					"text": "ADD APPOINTEE"
+				},
+				"salutation": {
+					"heading": "select salutation<span style='color:red;'>*</span>",
+					"label": "Salutation",
+					"error": "Please enter salutation."
+				},
+				"select_salutation": {
+					"label": "Select Salutation"
+				},
+				"firstname": {
+					"label": "First Name<span style='color:red;'>*</span>",
+					"error": "Please enter first name."
+				},
+				"surname": {
+					"label": "Surname<span style='color:red;'>*</span>",
+					"error": "Please enter surname."
+				},
+				"dateofbirth": {
+					"label": "Date Of Birth<span style='color:red;'>*</span>",
+					"error": "Please enter date of birth",
+					"agecondition": "Appointee cannot be less than 18 years of age"
+				},
+				"gender": {
+					"label": "Gender<span style='color:red;'>*</span>",
+					"select_gender": "Select Gender",
+					"malelabel": "Male",
+					"femalabel": "Female",
+					"otherlabel": "Other",
+					"error": "Please enter gender."
+				},
+				"marital": {
+					"lbl": "Marital Status<span style='color:red;'>*</span>",
+					"label": "Select Marital Status",
+					"single": "Single",
+					"married": "Married",
+					"unmarried": "Unmarried",
+					"others": "Others",
+					"divorced": "Divorced",
+					"widowed": "Widowed",
+					"error": "Please enter marital status."
+				},
+				"relation": {
+					"label": "Relation with Nominee<span style='color:red;'>*</span>",
+					"select_relation": {
+						"label": "Select Relation",
+						"error": "Please enter relation."
+					}
+				},
+				"nationality": {
+					"label": "Nationality<span style='color:red;'>*</span>",
+					"select_nation": {
+						"label": "Select Nationality",
+						"error": "Please enter nationality."
+					}
+				},
+				"resident": {
+					"label": "Resident Country<span style='color:red;'>*</span>",
+					"select_resident": {
+						"label": "Select Resident",
+						"error": "Please enter resident."
+					}
+				},
+				"address": {
+					"label": "Address<span style='color:red;'>*</span>",
+					"error": "Please enter address."
+				},
+				"country": {
+					"label": "Country<span style='color:red;'>*</span>",
+					"select_country": {
+						"label": "Select Country",
+						"error": "Please enter country."
+					}
+				},
+				"pincode": {
+					"label": "Pin code<span style='color:red;'>*</span>",
+					"errMsg": "Pincode should be 6 digits.",
+					"invalidpin": "Invalid Pincode",
+					"validpincode": "Please enter valid pincode."
+				},
+				"city": {
+					"label": "City<span style='color:red;'>*</span>",
+					"error": "Please enter city."
+				},
+				"state": {
+					"label": "State<span style='color:red;'>*</span>",
+					"error": "Please enter state."
+				},
+				"proceedbtn": {
+					"label": "PROCEED"
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"agecondtion": {
+					"label": "Please add an Appointee as the Nominee age is less than 18 years"
+				},
+				"yes": {
+					"label": "ADD APPOINTEE"
+				},
+				"no": {
+					"label": "CANCEL"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				}
+			},
+			"documentdwnld": {
+				"customerNotify": {
+					"label": "Note : At a given time you can only download 3 receipts/notices"
+				},
+				"submitbtn": {
+					"label": "Submit"
+				},
+				"fromdate": {
+					"error": "Please enter the start date."
+				},
+				"todate": {
+					"error": "Please enter the end date."
+				},
+				"datemismatch": {
+					"error": "Please enter valid dates."
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				}
+			},
+			"panform": {
+				"heading": {
+					"text": "UPDATE PAN CARD"
+				},
+				"pancardNumber": {
+					"label": "PAN Card Number<span style='color:red;'>*</span>",
+					"hint": "Please enter a valid PAN Number."
+				},
+				"uploadpancard": {
+					"label": "Upload PAN Card Image<span style='color:red;'>*</span>",
+					"error": "Please upload PAN card image."
+				},
+				"panverification": {
+					"success": "Your PAN has been verified.",
+					"error": "Your PAN has not been verified. Please upload the file."
+				},
+				"Front": {
+					"label": "Front Image"
+				},
+				"Back": {
+					"label": "Back Image"
+				},
+				"termcontn": {
+					"label": "<span style='color:red;'>*</span>I agree with the Terms & Conditions specified in the notice appearing below",
+					"error": "Please agree with the terms"
+				},
+				"approvecontn": {
+					"label": "I hereby state that I have no objection and give my voluntary consent for linking my PAN number to my insurance policy/policies."
+				},
+				"submitbtn": {
+					"label": "SUBMIT"
+				},
+				"fileprocess": {
+					"error": "Something went wrong while reading selected file."
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"validpan": {
+					"error": "Please enter a valid PAN number."
+				},
+				"panupload": {
+					"error": "Please upload PAN Card image."
+				}
+			},
+			"helppage": {
+				"heading": {
+					"text": "FAQ's",
+					"label": "Frequently Asked Questions"
+				}
+			},
+			"email_chat": {
+				"heading": {
+					"text": "EMAIL CHAT"
+				},
+				"emailid": {
+					"label": "EMAIL ID"
+				},
+				"fromdate": {
+					"label": "FROM DATE<span style='color:red;'>*</span>"
+				},
+				"tilldate": {
+					"label": "TILL DATE<span style='color:red;'>*</span>"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"invalid_email": {
+					"error": "Please enter valid Email ID."
+				},
+				"email_required": {
+					"label": "Please enter your Email ID."
+				},
+				"fromdate_required": {
+					"label": "Please enter the start date of the chat conversations."
+				},
+				"tilldate_required": {
+					"label": "Please enter the end date of the chat conversations."
+				},
+				"datemismatch": {
+					"label": "Please enter valid dates."
+				},
+				"emailchatbtn": {
+					"label": "Email Chat"
+				},
+				"emptyemail": {
+					"label": "Seems like your email id is not registered with us. Request you to update your email id.",
+					"yes": "Update Email",
+					"no": "Not Now"
+				}
+			},
+			"email_update": {
+				"heading": {
+					"text": "UPDATE EMAIL ID"
+				},
+				"otpmsg": {
+					"label": "OTP is sent to your Registered Mobile number ("
+				},
+				"newemailid": {
+					"label": "NEW EMAIL ID<span style='color:red;'>*</span>"
+				},
+				"reentermailid": {
+					"label": "RE-ENTER EMAIL ID<span style='color:red;'>*</span>"
+				},
+				"emailmismatch": {
+					"label": "Email ID Mismatch"
+				},
+				"emailidlbel": {
+					"label": ") and Email ID ("
+				},
+				"continuelbl": {
+					"label": ").Please check before clicking on 'Continue'"
+				},
+				"continuebtn": {
+					"label": "CONTINUE"
+				},
+				"upldprf": {
+					"label": "Upload Valid Proof<span style='color:red;'>*</span>"
+				},
+				"coloredcpymsg": {
+					"label": "Please upload the clear & colored copy of acceptable proofs to avoid any request rejections"
+				},
+				"agreecheck": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to the terms and conditions mentioned below:"
+				},
+				"condtslbl": {
+					"label": "Terms & Conditions:"
+				},
+				"contn1": {
+					"label": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded."
+				},
+				"contn2": {
+					"label": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies."
+				},
+				"contn3": {
+					"label": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card."
+				},
+				"contn4": {
+					"label": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				},
+				"subtbtn": {
+					"label": "SUBMIT"
+				},
+				"Prrofupload": {
+					"front": "Front Image",
+					"back": "Back Image"
+				},
+				"entermailid": {
+					"error": "Enter your new Email ID."
+				},
+				"entervalidmail": {
+					"label": "Please enter valid Email ID.",
+					"error": "Please enter email type."
+				},
+				"allnomineealertmsg": {
+					"error": "Please fill the all nominees mandatory fiels"
+				},
+				"sharingfullalertmsg": {
+					"error": "Sharing Must be a 100%'"
+				},
+				"fileprocessalert": {
+					"error": "Something went wrong while reading selected file."
+				},
+				"otpsendreq": {
+					"error": "OTP will be sent on your registered Mobile number and Email id"
+				},
+				"agecondtion": {
+					"label": "Please add an Appointee as the Nominee age is less than 18 years"
+				},
+				"yes": {
+					"label": "ADD APPOINTEE"
+				},
+				"no": {
+					"label": "CANCEL"
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"otpformailid": {
+					"label": "OTP will be sent to your Registered Email ID("
+				},
+				"selecttype": {
+					"labelhid": "SELECT TYPE",
+					"label": "SELECT TYPE<span style='color:red;'>*</span>",
+					"primary": "Primary",
+					"secondary": "Secondary"
+				},
+				"selectproof": {
+					"labelhid": "SELECT PROOF",
+					"label": "SELECT PROOF<span style='color:red;'>*</span>",
+					"aadhar": "Aadhaar Card",
+					"voterid": "Voter Id",
+					"passport": "Passport",
+					"pancard": "PAN Card",
+					"nrega": "NREGA Job Card",
+					"drivinglic": "Driving License"
+				},
+				"agrewithterms": "Please agree with the terms",
+				"otpsendmailid": "OTP is sent to your Registered Email ID",
+				"otpsendmobno": "OTP is sent to your Registered Mobile number",
+				"prooftype": {
+					"error": "Please enter proof type"
+				},
+				"proofattachment": {
+					"error": "Please upload valid proof",
+					"aadharerror": "Please upload Aadhaar Card Image",
+					"votererror": "Please upload Voter Id Image",
+					"pasporterror": "Please upload Passport Image",
+					"panerror": "Please upload PAN Card Image",
+					"nregaerror": "Please upload NREGA Job Card Image",
+					"driverror": "Please upload Driving License Image"
+				},
+				"newemailInfo": {
+					"hint": "Please enter your valid email id use format like : john@example.com"
+				},
+				"imagemsg": {
+					"frontimg": "Front Image",
+					"backimg": "Back Image",
+					"img": "Upload",
+					"imgtxt": "Image",
+					"frontimgerror": "Please upload Front Image",
+					"backimgerror": "Please upload Back Image",
+					"showaadhartext": "Upload Aadhaar Card Image",
+					"showvotertext": "Upload Voter Id Image",
+					"showpantext": "Upload Pan Card Image",
+					"showpassporttext": "Upload Passport Image",
+					"shownregatext": "Upload NREGA Job Card Image",
+					"showdrivtext": "Upload Driving license Image",
+					"adhrtxt": "Aadhaar Card",
+					"votrtxt": "Voter Id",
+					"pasporttxt": "Passport",
+					"drivingtxt": "Driving License",
+					"nregatxt": "NREGA Job Card",
+					"adhrtxtemty": "",
+					"votrtxtemty": "",
+					"pasporttxtemty": "",
+					"drivetxtemty": "",
+					"nregatxtemty": ""
+				}
+			},
+			"mobile_update": {
+				"heading": {
+					"text": "UPDATE MOBILE NUMBER"
+				},
+				"otpmsg": {
+					"label": "OTP is sent to your Registered Mobile number ("
+				},
+				"newmobileno": {
+					"label": "NEW MOBILE NUMBER<span style='color:red;'>*</span>",
+					"error": "Please enter valid mobile number."
+				},
+				"reentermobileno": {
+					"label": "RE-ENTER MOBILE NUMBER<span style='color:red;'>*</span>",
+					"invalidmobile": "Please enter valid mobile number."
+				},
+				"mobilenomismatch": {
+					"label": "Mobile Number Mismatch."
+				},
+				"emailidlbel": {
+					"label": ") and Email ID ("
+				},
+				"continuelbl": {
+					"label": ").Please check before clicking on 'Continue'"
+				},
+				"continuebtn": {
+					"label": "CONTINUE"
+				},
+				"upldprf": {
+					"label": "Upload Valid Proof"
+				},
+				"coloredcpymsg": {
+					"label": "Please upload the clear & colored copy of acceptable proofs to avoid any request rejections"
+				},
+				"agreecheck": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to the terms and conditions mentioned below:",
+					"error": "Please agree with the terms"
+				},
+				"condtslbl": {
+					"label": "Terms & Conditions:"
+				},
+				"contn1": {
+					"label": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded."
+				},
+				"contn2": {
+					"label": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies."
+				},
+				"contn3": {
+					"label": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card."
+				},
+				"contn4": {
+					"label": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				},
+				"subtbtn": {
+					"label": "SUBMIT"
+				},
+				"Prrofupload": {
+					"front": "Front Image",
+					"back": "Back Image"
+				},
+				"entermobileno": {
+					"error": "Enter valid new Mobile Number"
+				},
+				"mobilenoreq": {
+					"error": "Please enter valid mobile number."
+				},
+				"entervalidmobileno": {
+					"label": "Mobile Number should contain atleast 10 numbers."
+				},
+				"fileprocessalert": {
+					"error": "Something went wrong while reading selected file."
+				},
+				"otpsendreq": {
+					"error": "OTP is sent to your Registered Mobile number & Email ID."
+				},
+				"otpsendreqmmobile": {
+					"error": "OTP is sent to your Registered Mobile number."
+				},
+				"otpsendreqmemail": {
+					"error": "OTP is sent to your Registered Email ID."
+				},
+				"agecondtion": {
+					"label": "Please add an Appointee as the Nominee age is less than 18 years"
+				},
+				"yes": {
+					"label": "ADD APPOINTEE"
+				},
+				"no": {
+					"label": "CANCEL"
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"selecttype": {
+					"labelhid": "SELECT TYPE",
+					"label": "SELECT TYPE<span style='color:red;'>*</span>",
+					"primary": "Primary",
+					"secondary": "Secondary"
+				},
+				"selectproof": {
+					"labelhid": "SELECT PROOF",
+					"label": "SELECT PROOF<span style='color:red;'>*</span>",
+					"aadhar": "Aadhaar Card",
+					"voterid": "Voter Id",
+					"passport": "Passport",
+					"drivinglic": "Driving License",
+					"pancard": "PAN Card",
+					"nrega": "NREGA Job Card"
+				},
+				"mobiletype": {
+					"error": "Please enter mobile type."
+				},
+				"proofattachment": {
+					"error": "Please upload valid proof.",
+					"aadharerror": "Please upload Aadhaar Card Image",
+					"votererror": "Please upload Voter Id Image",
+					"pasporterror": "Please upload Passport Image",
+					"panerror": "Please upload PAN Card Image",
+					"nregaerror": "Please upload NREGA Job Card Image",
+					"driverror": "Please upload Driving License Image"
+				},
+				"prooftype": {
+					"error": "Please enter proof type."
+				},
+				"imagemsg": {
+					"frontimg": "Front Image",
+					"backimg": "Back Image",
+					"img": "Upload",
+					"imgtxt": "Image",
+					"showaadhartext": "Upload Aadhaar Card Image",
+					"showvotertext": "Upload Voter Id Image",
+					"showpantext": "Upload Pan Card Image",
+					"showpassporttext": "Upload Passport Image",
+					"shownregatext": "Upload NREGA Job Card Image",
+					"showdrivtext": "Upload Driving license Image",
+					"frontimgerror": "Please upload front image of ",
+					"backimgerror": "Please upload back image of  ",
+					"adhrtxt": "Aadhaar Card",
+					"votrtxt": "Voter Id",
+					"pasporttxt": "Passport",
+					"drivingtxt": "Driving License",
+					"nregatxt": "NREGA Job Card",
+					"adhrtxtemty": "",
+					"votrtxtemty": "",
+					"pasporttxtemty": "",
+					"drivetxtemty": "",
+					"nregatxtemty": ""
+				}
+			},
+			"vas_fetch_details_form": {
+				"heading": {
+					"text": "Policy owner contact details"
+				},
+				"labels": {
+					"name": "Policy Holder Name",
+					"email": "Email ID",
+					"mobile": "Mobile Number",
+					"verify": "Before we proceed, we would like to verify your existing contact details."
+				},
+				"subtbtn": {
+					"label": "NEXT"
+				},
+				"info": {
+					"label": "PNB MetLife shall use the mobile number/E-mail ID updated hereinabove and further registered in PNB MetLife’s records, for all future communications including other contact details collected or available with PNB MetLife."
+				}
+			},
+			"vas_faq": {
+				"heading": {
+					"text": "VAS FAQ's",
+					"label": "Frequently Asked Questions"
+				},
+				"queries": [
+					{
+						"query": "Are the points taxable?",
+						"response": "As per the Indian Taxation Laws, an aggregate of award amount of Rs.5,000 & below , within the same Financial Year (April-March) will be exempted from income tax in India. However, any aggregated award amount, over and above Rs.5,000 within the same Financial Year (April-March), will be taxable. \nFor Example: If an employee A receives Rs. 4,000 as an award amount in the month of Jun 2020, there will be no tax deducted. However , if the employee A receives an additional award of Rs. 2,000 in Dec 2020 , the aggregate award amount for the FY is Rs 6,000 (4,000 + 2,000). Hence the additional amount of Rs.1,000 will be taxable. Tax will be deducted in the following month via payroll."
+					},
+					{
+						"query": "Can I convert the points into cash?",
+						"response": "No, the points cannot be converted into cash, except for any medical emergencies (Please contact your Tower Leaders for exceptions related to medical emergencies). The Kudos platform has amazing options to choose from and we would encourage you to leverage the available discounts. If you are looking for a particular brand/product etc., you can also request the Advantage Club team (through the Kudos platform) to work on your requirements and they will try their best to enable the deals for the same. There is an ‘I Want’ feature on the platform to enable brand recommendations."
+					},
+					{
+						"query": "When do the points expire?",
+						"response": "Points don't have any expiry date until you are working in the same corporate, although the brand vouchers redeemed using these points have a certain expiry date which eventually depends on the brand itself."
+					},
+					{
+						"query": "Can the employee transfer the points to their colleagues?",
+						"response": "Yes, the employees can give points to their colleagues as gifts. It will be solely on the discretion of the employee."
+					},
+					{
+						"query": " Is there a limit to non- monetary awards/ appreciation?",
+						"response": "No, there is no limit to appreciation. We encourage you to recognise your colleagues on a frequent basis to keep them motivated."
+					},
+					{
+						"query": "Can I mark my manager/ tower leaders while initiating a monetary/non- monetary award?",
+						"response": "Yes, you can cc your managers/ tower leaders while appreciating or awarding your colleagues."
+					},
+					{
+						"query": "When will the employee be notified about the award?",
+						"response": "SOnce the Approver 2 gives approval, the employee will get an award directly."
+					},
+					{
+						"query": "What are Classifieds?",
+						"response": "Classifieds is the 'buy and sell' feature. Through this you will be able to post an advertisement with all the details and descriptions of the product which will only be visible to the employees. They can click on 'buy at the price'. The user's details will be shared with the owner of the product and then the owner can contact the buyer at his own convenience. This feature is much more reliable than any similar features available in the market."
+					},
+					{
+						"query": "How can points be redeemed on the Advantage Club portal?",
+						"response": "Click on the ‘Redeem’ feature on the Home Page. You’ll be able to see various brands from different categories here. Use your reward points to redeem them on any brand of your choice. While redeeming something higher than the number of points, users can pay the balance using their credit card/debit card or Internet Banking."
+					},
+					{
+						"query": "When does wishing Button show up on the buzz page?",
+						"response": "The wish button gets populated on the day of Birthday and Work Anniversary. Clicking on that triggers an automated mail to the employee stating that you wished him."
+					},
+					{
+						"query": "What is the 'work anniversary award' flow ?",
+						"response": "If it's your Work Anniversary you will receive an automated mailer wishing you Happy work Anniversary from Otis Family."
+					},
+					{
+						"query": "What are the exit scenarios/policy for Otis Hub employees?",
+						"response": "The points will expire after employment ends for an employee. We request the employees to redeem their points during the notice period to avoid losing them post employment ends."
+					}
+				]
+			},
+			"consent_form": {
+				"heading": {
+					"text": "CONSENT FORM"
+				},
+				"labels": {
+					"agree_statement": "I agree to the consent stated above.",
+					"scroll_statement": "Note: Please scroll to the bottom to read the consent."
+				},
+				"consent_content": {
+					"heading": "DECLARATION:",
+					"content": "<br>I hereby authorize and consent to PNB MetLife: <br><br>(a) To use and disclose any of my personal and sensitive confidential information collected or available with PNB MetLife to any individual/organisation/entity associated or affiliated with or engaged by PNB MetLife, including ‘Work Advantage’ and ‘Medibuddy’ engaged by PNB MetLife to facilitate medical consultation and other health and wellness services. <br><br>(b) That any views/advise/opinion expressed by any health & wellness experts/nutritionists/medical practitioner shall be construed as their independent views/advise/opinion and shall not constitute views/advise/opinion from PNB MetLife. <br><br>(c) PNB MetLife does not take any responsibility whatsoever for the effectiveness of service and any medical consultancy recommended by any health & medical expert/ practitioner and wellness experts. <br><br>(d) Actual results may vary from person to person depending upon various factors affecting the individual’s health. <br><br>(e) That it is my sole discretion to avail this service/ medical consultancy. <br><br>(f) I shall approach the service provider in case of any queries/complaints. <br><br>(g) PNB MetLife shall use the mobile number updated hereinabove and further registered in PNB MetLife’s records, for all future communications including other contact details collected or available with PNB MetLife."
+				},
+				"subtbtn": {
+					"label": "SUBMIT"
+				}
+			},
+			"aadhar_form": {
+				"heading": {
+					"text": "UPDATE AADHAAR CARD"
+				},
+				"lastfourdigit": {
+					"label": "Last 4 digits of Aadhaar Card Number<span style='color:red;'>*</span>"
+				},
+				"upldaadhar_image": {
+					"label": "Upload Aadhaar Card Image<span style='color:red;'>*</span>"
+				},
+				"Front": {
+					"label": "Front Image"
+				},
+				"Back": {
+					"label": "Back Image"
+				},
+				"maskedaadharmsg": {
+					"label": "Please upload only masked Aadhaar card copy showing last 4 digits as per regulatory guidelines"
+				},
+				"agreecontionmsg": {
+					"label": "<span style='color:red;'>*</span>I agree with the Terms & Conditions specified in the notice appearing below",
+					"error": "Please agree with the terms"
+				},
+				"noobjectionmsg": {
+					"label": "I hereby state that I have no objection and give my voluntary consent for linking my AADHAAR number to my insurance policy/policies."
+				},
+				"subtbtn": {
+					"label": "Submit"
+				},
+				"fileprocessalert": {
+					"error": "Something went wrong while reading selected file."
+				},
+				"invalidquery": {
+					"label": "Sorry we could not process your query, please send again."
+				},
+				"validaadhar": {
+					"label": "Please enter a valid Aadhaar number"
+				},
+				"upldaadharimg": {
+					"label": "Please upload Aadhaar Card image",
+					"errorfront": "Please upload front image of  Aadhaar.",
+					"errorback": "Please upload back image of  Aadhaar."
+				},
+				"content1": {
+					"label": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded."
+				},
+				"content2": {
+					"label": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies."
+				},
+				"content3": {
+					"label": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card."
+				},
+				"content4": {
+					"label": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				}
+			},
+			"about_form": {
+				"heading": {
+					"text": "ABOUT US"
+				},
+				"aboutmsg": {
+					"label": "About PNB MetLife"
+				},
+				"content1": {
+					"label": "PNB Metlife entered the Indian Insurance market in the year 2001 and has come a long way since."
+				},
+				"content2": {
+					"label": "The parent entity MetLife International & some very trusted financial sector giants like Punjab National Bank along, Jammu & Kashmir Bank and M Pallonji are the major shareholders of the company along with other investors. The vast distribution reach of PNB together with the global insurance expertise and product range of MetLife makes PNB MetLife a strong and trusted insurance provider."
+				},
+				"content3": {
+					"label": " PNB Metlife has a strong and growing base of 3.6+ million insured lives and has its presence across 7000 locations. <a href='https://www.pnbmetlife.com/about-us/index.html'>Click here</a> to know more."
+				},
+				"clickbtn": {
+					"label": "Click here"
+				},
+				"knowmoremsg": {
+					"label": "to know more."
+				},
+				"version": {
+					"label": "Version: "
+				},
+				"build": {
+					"label": "Build: "
+				},
+				"appversioninfo": {
+					"error": "1.3.7 build 8"
+				},
+				"appbuildshowinfo": {
+					"error": "false"
+				},
+				"appbuildinfo": {
+					"error": "3"
+				}
+			},
+			"authenticate": {
+				"pwd": {
+					"label": "PASSWORD"
+				},
+				"retype_pwd": {
+					"label": "RE-TYPE PASSWORD"
+				},
+				"nextbtn": {
+					"label": "Next"
+				},
+				"pwdruleerror": {
+					"error": "The password needs to be:<br><br>1. Min length 6 characters, Max length 20 characters<br>2. Special characters allowed !._-()[]`~<br>3. Contain at least one numeric, one alphabet & one special character."
+				},
+				"pwdreqerror": {
+					"error": "Please enter your password."
+				},
+				"invalidpwderror": {
+					"error": "Password should be as per the rules."
+				},
+				"passcodenotmatch": {
+					"error": "Re-entered password doesn't match."
+				}
+			},
+			"profile": {
+				"heading": {
+					"text": "PROFILE"
+				},
+				"name": {
+					"label": "NAME<span style='color:red;'>*</span>"
+				},
+				"mobileno": {
+					"label": "MOBILE NUMBER"
+				},
+				"emailid": {
+					"label": "EMAIL ID"
+				},
+				"dateofbirth": {
+					"label": "DATE OF BIRTH"
+				},
+				"edit": {
+					"label": "Edit"
+				},
+				"update": {
+					"label": "Update"
+				},
+				"namerequired": {
+					"error": "Please enter your name."
+				},
+				"nameminlength": {
+					"error": "Name should contain atleast 3 characters."
+				},
+				"mobilenoreq": {
+					"error": "Please enter your mobile number."
+				},
+				"invalidmobileno": {
+					"error": "Mobile Number should contain atleast 10 numbers."
+				},
+				"invalidemail": {
+					"error": "Please enter valid Email ID."
+				},
+				"dobrequired": {
+					"error": "Enter your date of birth as mentioned in your policy."
+				},
+				"updatemsg": {
+					"msg": "Details have been updated successfully."
+				}
+			},
+			"profileInfo": {
+				"name": {
+					"label": "NAME"
+				},
+				"next": {
+					"label": "NEXT"
+				},
+				"namerequired": {
+					"error": "Please enter your name."
+				},
+				"nameminlength": {
+					"error": "Name should contain atleast 3 characters."
+				}
+			},
+			"header": {
+				"heading": {
+					"text": "STARRED MESSAGES"
+				},
+				"starredmsg": "Starred Messages",
+				"clrhistry": "Clear History",
+				"emailchat": "Email Chat",
+				"howtouse": "How to use",
+				"searchmsg": "Search",
+				"aboutmsg": "About",
+				"datanotfound": "No starred messages found."
+			},
+			"settings": {
+				"heading": {
+					"text": "ENABLE KHUSHI VOICE"
+				},
+				"enablevoicerespnsemsg": "Enable Voice Response",
+				"enableaitalkback": "Enable AI Talkback",
+				"speechratemsg": "Speech Rate",
+				"oopserror": "Oops!",
+				"sessionexpmsg": "Session Expired.",
+				"okmsg": "OK",
+				"invalidcredntlsmsg": "Incorrect Credentials ",
+				"errormsg": "ERROR"
+			},
+			"address_update": {
+				"heading": {
+					"text": "UPDATE ADDRESS"
+				},
+				"slelectCountry": {
+					"label": "Select Country<span style='color:red;'>*</span>"
+				},
+				"updateAddress": {
+					"label": "Update New Address"
+				},
+				"typeodAddress": {
+					"label": "Which address would you like to update:"
+				},
+				"permAddress": {
+					"label": "Permanent",
+					"error": "Currently there is no Permanent Address updated in our records."
+				},
+				"coresAddress": {
+					"label": "Correspondence",
+					"error": "Currently there is no Correspondence Address updated in our records."
+				},
+				"address": {
+					"label": "Address<span style='color:red;'>*</span>",
+					"error": "Please enter address."
+				},
+				"country": {
+					"labelhid": "Country",
+					"label": "Country<span style='color:red;'>*</span>",
+					"error": "Please enter country."
+				},
+				"pincode": {
+					"label": "Pincode<span style='color:red;'>*</span>",
+					"validpincode": "Pincode should be 6 digits.",
+					"invalidpin": "Invalid Pincode",
+					"error": "Please enter valid pincode."
+				},
+				"City": {
+					"label": "City<span style='color:red;'>*</span>",
+					"error": "Please enter city."
+				},
+				"state": {
+					"label": "State<span style='color:red;'>*</span>",
+					"error": "Please enter state."
+				},
+				"slectprrof": {
+					"labelhid": "SELECT PROOF",
+					"label": "SELECT PROOF<span style='color:red;'>*</span>",
+					"addhar": "Aadhaar Card",
+					"voter_id": "Voter Id",
+					"pass": "Passport",
+					"pancard": "PAN Card",
+					"nrega": "NREGA Job Card",
+					"dl": "Driving License",
+					"latestBnk": "Latest Bank Statement",
+					"error": "Please enter proof type."
+				},
+				"uploadProof": {
+					"label": "Please upload valid address proof.",
+					"proofattachment": "Please upload valid proof.",
+					"aadharerror": "Please Upload Aadhaar Card image",
+					"votererror": "Please Upload Voter Id Image",
+					"pasporterror": "Please Upload Passport Image",
+					"panerror": "Please Upload PAN Card Image",
+					"nregaerror": "Please Upload NREGA Job Card Image",
+					"driverror": "Please Upload Driving License Image",
+					"uplaodMsg": "Please upload clear & colored copy of acceptable proofs to avoid any request rejections."
+				},
+				"proofImage": {
+					"front": "Front Image",
+					"back": "Back Image"
+				},
+				"checkbox": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to the terms and conditions mentioned below:",
+					"termCond": "Terms & Conditions:",
+					"error": "Please agree with the terms."
+				},
+				"disclaimer": {
+					"firstDis": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded.",
+					"secondDis": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies.",
+					"thirdDis": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card.",
+					"fourthDis": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				},
+				"updateBtn": {
+					"label": "Update Address"
+				},
+				"otpsendreq": {
+					"error": "OTP is sent to your Registered Mobile number & Email ID."
+				},
+				"otpsendreqmmobile": {
+					"error": "OTP is sent to your Registered Mobile number."
+				},
+				"otpsendreqmemail": {
+					"error": "OTP is sent to your Registered Email ID."
+				},
+				"imagemsg": {
+					"frontimg": "Front - Image",
+					"backimg": "Back - Image",
+					"showaadhartext": "Upload Aadhaar Card Image",
+					"showvotertext": "Upload Voter Id Image",
+					"showpassporttext": "Upload Passport Image",
+					"shownregatext": "Upload NREGA Job Card Image",
+					"showdrivtext": "Upload Driving license Image",
+					"frontimgerror": "Please upload front image of ",
+					"backimgerror": "Please upload back image of  ",
+					"adhrtxt": "Aadhaar",
+					"votrtxt": "Voter Id",
+					"pasporttxt": "Passport",
+					"drivingtxt": "Driving License",
+					"nregatxt": "NREGA Job Card",
+					"adhrtxtemty": "",
+					"votrtxtemty": "",
+					"pasporttxtemty": "",
+					"drivetxtemty": "",
+					"nregatxtemty": ""
+				}
+			},
+			"downloadHeaderType": {
+				"one": {
+					"header": "Renewal Premium Receipt",
+					"subHeader": "Please choose the period for the renewal premium receipt",
+					"fromDate": "From Date<span style='color:red;'>*</span>",
+					"toDate": "To Date<span style='color:red;'>*</span>",
+					"year": false,
+					"urlType": "RPR"
+				},
+				"two": {
+					"header": "Renewal Premium Notice",
+					"subHeader": "Please choose the period for the renewal premium notice",
+					"fromDate": "From Date<span style='color:red;'>*</span>",
+					"toDate": "To Date<span style='color:red;'>*</span>",
+					"year": false,
+					"urlType": "RPN"
+				},
+				"three": {
+					"header": "Premium Paid Certificate",
+					"subHeader": "Please choose the period for the Premium Paid Certificate",
+					"fromDate": "Financial year<span style='color:red;'>*</span>",
+					"toDate": "To Date<span style='color:red;'>*</span>",
+					"year": true,
+					"urlType": "PPC"
+				},
+				"four": {
+					"header": "Account Statement",
+					"subHeader": "Please choose the period for the Account Statement",
+					"fromDate": "From Date<span style='color:red;'>*</span>",
+					"toDate": "To Date<span style='color:red;'>*</span>",
+					"year": false,
+					"urlType": "AS"
+				},
+				"errmsg": {
+					"errorfrom": "Please enter the start date",
+					"errorTo": "Please enter the end date."
+				}
+			},
+			"buttons": {
+				"ABOUT US": "ABOUT US",
+				"PNB MetLife conVRse facility": "PNB MetLife conVRse facility",
+				"Nearest Branch location": "Nearest Branch location",
+				"Branch location": "Branch location",
+				"branch location": "Branch location",
+				"PNB CSR Initiatives": "PNB CSR Initiatives",
+				"navigate to address": "navigate to address",
+				"Due Date reminder": "Due date reminder",
+				"Personal reminder": "Personal reminder",
+				"Child Plans": "Child Plans",
+				"Protection Plans": "Protection Plans",
+				"Retirement Plan": "Retirement Plan",
+				"Health Plan": "Health Plan",
+				"Mera Heart And Cancer": "Mera Heart And Cancer",
+				"Savings Plan": "Savings Plan",
+				"Wealth Plans": "Wealth Plans",
+				"Investment philosophy": "Investment philosophy",
+				"Meet an advisor": "Meet an advisor",
+				"Online Calculator": "Online Calculator",
+				"BUY INSURANCE ONLINE": "BUY INSURANCE ONLINE",
+				"Child Popular Article": "Child Popular Article",
+				"Child Plan Article": "Child Plan Article",
+				"Protection Plan Article": "Protection Plan Article",
+				"Retirement Plan Article": "Retirement Plan Article",
+				"Health Plan Article": "Health Plan Article",
+				"Savings Plan Article": "Savings Plan Article",
+				"Wealth Plan Article": "Wealth Plan Article",
+				"Get Receipt": "Get Receipt",
+				"Get Notice": "Get Notice",
+				"Get Certificate": "Get Certificate",
+				"Generate e-Policy Document Request": "Generate e-Policy Document Request",
+				"Change registered e-mail id": "Change registered e-mail id",
+				"cancel": "cancel",
+				"Service Forms": "Service Forms",
+				"Update PAN": "Update PAN",
+				"UPDATE AADHAAR": "UPDATE AADHAAR",
+				"Update Address": "Update Address",
+				"Update with otp": "Update with otp",
+				"Update with an Id Proof": "Update with an Id Proof",
+				"Bank Update": "Bank Update",
+				"Unclaimed Fund Bank Update": "Unclaimed Fund Bank Update",
+				"Register To Go Green": "Register To Go Green",
+				"update nominee": "update nominee",
+				"One Time Reminder": "One Time Reminder",
+				"Frequent Reminder": "Frequent Reminder",
+				"BankUpdate": "BankUpdate",
+				"Download Service Form": "Download Service Form",
+				"ACH LIST OF BANKS": "ACH LIST OF BANKS",
+				"Get Statement": "Get Statement",
+				"Pay Now": "Pay Now",
+				"Charges on different Fund details": "Charges on different Fund details",
+				"Indemnity Bond": "Indemnity Bond",
+				"Maturity Settlement Form": "Maturity Settlement Form",
+				"Authority Letter Format": "Authority Letter Format",
+				"Authority Letter Form": "Authority Letter Form",
+				"Portfolio Details": "Portfolio Details",
+				"View Fund Portfolio details": "View Fund Portfolio details",
+				"Fund Switch Form": "Fund Switch Form",
+				"View & Change Fund Portfolio details": "View & Change Fund Portfolio details",
+				"Branch Location": "Branch Location",
+				"PNB Metlife": "PNB Metlife",
+				"Get A Call Back": "Get A Call Back",
+				"Track your Policy Documents": "Track your Policy Documents",
+				"e-PD Download": "e-PD Download",
+				"PNB METLIFE WEBSITE": "PNB METLIFE WEBSITE",
+				"PNB METLIFE FUND PERFORMANCE DETAILS": "PNB METLIFE FUND PERFORMANCE DETAILS",
+				"PMLI FUND PERFORMACE DETAILS": "PMLI FUND PERFORMACE DETAILS",
+				"PNB METLIFE Customer Portal": "PNB METLIFE Customer Portal",
+				"PNB Website": "PNB Website",
+				"Track Fund Vakue": "Track Fund Vakue",
+				"Frequency Change Request": "Frequency Change Request",
+				"Mode Change Request ": "Mode Change Request",
+				"Mode Change Request   ": "Mode Change Request",
+				"DUE DATE Reminder": "DUE DATE Reminder",
+				"Personal Reminder": "Personal Reminder",
+				"Monthly ": "Monthly",
+				"Quarterly ": "Quarterly",
+				"Semi-Annual ": "Semi-Annual",
+				"Annual ": "Annual ",
+				"Cash ": "Cash",
+				"Cheque ": "Cheque",
+				"DD Direct Debit": "DD Direct Debit",
+				"ACH ": "ACH",
+				"Auto Debit (For Axis Bank Customer Only)": "Auto Debit (For Axis Bank Customer Only)",
+				"Mode Change Request": "Mode Change Request",
+				"Submit DGH": "Submit DGH",
+				"PNB MetLife Branch": "PNB MetLife Branch",
+				"CAMS Branch": "CAMS Branch",
+				"Fix Your Medical": "Fix Your Medical",
+				"Enable online loan closure request": "Enable online loan closure request",
+				"Maturity Benefit Letter": "Maturity Benefit Letter",
+				"Click to Update": "Click to Update",
+				"Yes": "Yes",
+				"Edit Mobile Number": "Edit Mobile Number",
+				"Change Call Back Time": "Change Call Back Time",
+				"Next Available Slot": "Next Available Slot",
+				"Policy Redispatch Request": "Policy Redispatch Request",
+				"Policy Redispatch Request ": "Policy Redispatch Request ",
+				"Request an e-Policy Document": "Request an e-Policy Document",
+				"update email id": "update email id",
+				"No Thanks": "No Thanks",
+				"update mobile number": "update mobile number",
+				"update pan number": "update pan number",
+				"update aadhar number": "update aadhaar number",
+				"update correspondence address": "update correspondence address",
+				"claim amount": "claim amount",
+				"Lapsation Letter": "Lapsation Letter",
+				"Call Back": "Call Back",
+				"Fix Appointment": "Fix Appointment",
+				"Counter offer request": "Counter offer request",
+				"Send Medical Test Reports": "Send Medical Test Reports",
+				"Place A Request": "Place A Request",
+				"TMT ": "TMT ",
+				"ECG ": "ECG ",
+				"MER ": "MER ",
+				"URA ": "URA ",
+				"FBS ": "FBS ",
+				"LIP ": "LIP ",
+				"LFT ": "LFT ",
+				"Others ": "Others ",
+				"Place Request": "Place Request",
+				"Book an Appointment": "Book an Appointment",
+				"Call Back Request": "Call Back Request",
+				"Register For Monthly Investment Updates ": "Register For Monthly Investment Updates ",
+				"PNB MetLife Satara Hill Half Marathon": "PNB MetLife Satara Hill Half Marathon",
+				"PNB Badminton Championship ": "PNB Badminton Championship",
+				"PNB_MetLife_conVRse_facility": "PNB_MetLife_conVRse_facility",
+				"Tell us what you LIKED": "Tell us what you LIKED",
+				"Tell us what did you NOT like": "Tell us what did you NOT like",
+				"Child Plan": "Child Plan",
+				"About Us": "About Us",
+				"BUY POLICY": "BUY POLICY",
+				"TRACK FUND VALUE": "TRACK FUND VALUE",
+				"INVESTMENT PORTFOLIO": "INVESTMENT PORTFOLIO",
+				"Metlife Smart One": "Metlife Smart One",
+				"Metlife Smart Platinum": "Metlife Smart Platinum",
+				"Metlife Bhavishya Plus": "Metlife Bhavishya Plus",
+				"About_Us": "About_Us",
+				"Fix_Your_Medical": "Fix_Your_Medical",
+				" Fix_Your_Medical ": "Fix_Your_Medical",
+				"Pay_Now": "Pay_Now",
+				"Send Medical Test": "Send Medical Test",
+				"Place_A_Request": "Place A Request",
+				"Send_Medical_Test_Reports": "Send Medical Test Reports",
+				" Daily ": "Daily",
+				" Weekly  ": "Weekly",
+				"Health_Plan_Article": "Health Plan Article",
+				"Update Frequency": "Update Frequency",
+				"Update Dob": "Update Dob",
+				"Update Name": "Update Name",
+				"Update Appointee": "Update Appointee"
+			},
+			"overlyScreen": {
+				"overlayScreenWelcome": {
+					"welcomemsg1": "Hi I'm khUshi,",
+					"welcomemsg2": "Your Customer Service Insurance Assistant"
+				},
+				"guide_overlay_buttons": {
+					"text1": "Tap here to manage",
+					"text2": "profile and other",
+					"text3": "personal settings",
+					"plusIcontext1": "Tap here for",
+					"plusIcontext2": "shortcuts to common",
+					"plusIcontext3": "queries and tasks.",
+					"micIcontext1": "Tap here to",
+					"micIcontext2": "talk to khUshi",
+					"micIcontext3": "instead of typing."
+				},
+				"guide_overlay_menu": {
+					"heading1": "Tap here to get",
+					"heading2": "quick access to",
+					"heading3": "additional options."
+				},
+				"guide_overlay_menu_sleect": {
+					"option1": "Starred Messages",
+					"option2": "Clear History",
+					"option3": "Email Chat",
+					"option4": "How to use",
+					"option5": "Search",
+					"option6": "About Us"
+				},
+				"guide_overlay_select": {
+					"heading1": "Tap here to like",
+					"heading2": "or Dislike messages",
+					"heading3": "Tap here to Star",
+					"heading4": "your messages."
+				},
+				"divBoxarrow": {
+					"text1": "Long press on Chat bubble",
+					"text2": "to get Star Message option"
+				},
+				"gridText": {
+					"textstr": "I will be happy to arrange a call back to fix an appointment. Our Customer Service call center is available through  Monday to Friday between  10AM to 7PM IST.please let me know which slot i can schedule your callback."
+				},
+				"guide_overlay_card": {
+					"heading1": "Tap on Card to",
+					"heading2": "see more details."
+				},
+				"overlay_textswipe": {
+					"text1": "",
+					"text2": "swipe to see more cards"
+				},
+				"grid1Text": {
+					"addresC": "CORRESPONDING",
+					"label": "ADDRESS",
+					"add1": "120, Brigade",
+					"add2": "Seshmahal Karnataka",
+					"add3": "560078"
+				},
+				"grid2Text": {
+					"addresp": "PERMANENT",
+					"label": "ADDRESS",
+					"add1": "120, Brigade",
+					"add2": "Seshmahal Karnataka",
+					"add3": "560078"
+				},
+				"guide_overlay_cap": {
+					"heading1": "Check dynamic",
+					"heading2": "suggestion from khUshi",
+					"heading3": "based on your interest"
+				},
+				"swipemoreopt": {
+					"text1": "Swipe to see",
+					"text2": "more suggestions"
+				},
+				"overlay_capdiv1": {
+					"text1": "OUTSTANDING PREMIUM",
+					"text2": "WAYS TO PRE"
+				}
+			},
+			"languageupdate": {
+				"heading": {
+					"text": "CHOOSE LANGUAGE"
+				},
+				"choselangmsg": "Choose your preferred language",
+				"englang": "English",
+				"hindilang": "Hindi",
+				"content1": " Language option can be changed back anytime once you have logged in to the App. Some critical information will still continue to be in English.",
+				"content2": "We are trying our best to continuously improve the experience and looking at adding new languages to serve you better.",
+				"updatedmsg": "Language updated successfully",
+				"continue": "Continue"
+			},
+			"freezescreen": {
+				"text": "You have exceeded maximum attempts of resend OTP.Please try after sometime",
+				"text2": ""
+			},
+			"frequencychange": {
+				"heading": {
+					"text": "UPDATE FREQUENCY"
+				},
+				"existingFreq": {
+					"label": "Existing Premium Frequency"
+				},
+				"paymentFreq": {
+					"label": "Select New Premium Frequency<span style='color:red;'>*</span>",
+					"labelhid": "Select New Premium Frequency",
+					"monthly": "Monthly",
+					"quarterly": "Quarterly",
+					"semiannually": "Half Yearly",
+					"annual": "Annual",
+					"error": "Please select premium frequency",
+					"existingfreqerror": "Please select different premium frequency"
+				},
+				"disclaimer": {
+					"label": "Note: Any Change in frequency can be done 15 days prior to the Policy Anniversary Year. Frequency change from lower to high frequency mode is effective from next policy anniversary.",
+					"error": "Please agree with the terms"
+				},
+				"warningmsg": "We regret to inform you that frequency cannot be changed from Quarterly to monthly.Please Select any other premium frequency",
+				"subbutton": {
+					"label": "SUBMIT"
+				}
+			},
+			"changedob": {
+				"heading": {
+					"text": "UPDATE DATE OF BIRTH"
+				},
+				"selectAppl": {
+					"label": "Select Applicable<span style='color:red;'>*</span>",
+					"labelhid": "Select Applicable",
+					"error": "Please select Applicable",
+					"policyowner": "Policy Owner",
+					"appoint": "Appointee",
+					"beneficiary": "beneficiary"
+				},
+				"nameselect": [
+					{
+						"label": "Policy Owner",
+						"value": "Policy Owner"
+					},
+					{
+						"label": "Nominee",
+						"value": "Nominee"
+					},
+					{
+						"label": "Appointee",
+						"value": "Appointee"
+					}
+				],
+				"nameofAppl": {
+					"label1": "Name of Policy Owner",
+					"label2": "Name of Nominee",
+					"label3": "Name of Appointee",
+					"errormsg": "Please enter applicant name"
+				},
+				"olddob": {
+					"label": "Old DOB<span style='color:red;'>*</span>",
+					"errormsg": "Please enter old date of birth"
+				},
+				"newdob": {
+					"label": "New Date of Birth<span style='color:red;'>*</span>",
+					"errormsg": "Please enter new date of birth"
+				},
+				"validateDob": {
+					"errormsg1": "New date should not be same as old date"
+				},
+				"selectageproof": {
+					"labelhid": "SELECT AGE PROOF",
+					"label": "Select Age Proof<span style='color:red;'>*</span>",
+					"pan": "PAN Card",
+					"pass": "Passport",
+					"addhar": "Aadhaar Card",
+					"voterid": "Voter ID",
+					"dl": "Driving License",
+					"error": "Please select proof type"
+				},
+				"uploadProof": {
+					"label": "Please upload valid address proof.",
+					"proofattachment": "Please upload valid proof.",
+					"aadharerror": "Please Upload Aadhaar Card image",
+					"votererror": "Please upload Voter Id Image",
+					"pasporterror": "Please Upload Passport Image",
+					"panerror": "Please Upload PAN Card Image",
+					"driverror": "Please Upload Driving License Image",
+					"uplaodMsg": "Please upload clear & colored copy of acceptable proofs to avoid any request rejections."
+				},
+				"additionaldoc": {
+					"label": "Additional Documents (If Any)",
+					"buttonlabel": "UPLOAD ADDITIONAL DOCUMENTS",
+					"limitedupload": "You can not upload more than 3 documents.",
+					"error": "Please enter additional document",
+					"docerror": "Please upload atleast 1 additional document"
+				},
+				"imagemsg": {
+					"frontimg": "Front Image",
+					"backimg": "Back Image",
+					"img": "Upload",
+					"imgtxt": "Image",
+					"showaadhartext": "Upload Aadhaar Card Image",
+					"showvotertext": "Upload Voter Id Image",
+					"showpantext": "Upload Pan Card Image",
+					"showpassporttext": "Upload Passport Image",
+					"shownregatext": "Upload NREGA Job Card Image",
+					"showdrivtext": "Upload Driving license Image",
+					"frontimgerror": "Please upload front image of ",
+					"backimgerror": "Please upload back image of ",
+					"adhrtxt": "Aadhaar Card",
+					"votrtxt": "Voter Id",
+					"pasporttxt": "Passport",
+					"drivingtxt": "Driving License",
+					"adhrtxtemty": "",
+					"votrtxtemty": "",
+					"pasporttxtemty": "",
+					"drivetxtemty": ""
+				},
+				"uploadbtntext": {
+					"label": "Upload valid Date of Birth Proof"
+				},
+				"agreecheck": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to the terms and conditions mentioned below:",
+					"error": "Please agree with the terms"
+				},
+				"condtslbl": {
+					"label": "Terms & Conditions:"
+				},
+				"contn1": {
+					"label": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded."
+				},
+				"contn2": {
+					"label": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies."
+				},
+				"contn3": {
+					"label": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card."
+				},
+				"contn4": {
+					"label": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				},
+				"disclaimer": {
+					"text": "Note: Any Date of Birth Correction shall be subject to underwriting guidelines and the age eligibility criteria, if any, of the concerned insurance product. Change in DOB may result in increase/decrease of premium or Sum Assured",
+					"error": "Please agree with the terms"
+				},
+				"btntext": {
+					"label": "SUBMIT"
+				},
+				"nomineeage": {
+					"label": "Nominee is less than 18 years Hope you have already shared Appointee details for this nominee in our records to avoid rejection of request",
+					"nomineeempty": "As per your policy feature the policy owner itself is a Nominee. Hence Nominee DOB cannot be updated",
+					"appointempty": "As per your policy feature the policy owner itself is a Nominee. Hence Appointee is not available and DOB cannot be updated"
+				},
+				"cancelmsg": {
+					"label": "CANCEL"
+				},
+				"okmsg": {
+					"label": "OK"
+				}
+			},
+			"changename": {
+				"heading": {
+					"label": "UPDATE NAME"
+				},
+				"nameofAppl": {
+					"label1": "Name of Policy Owner",
+					"label2": "Name of Nominee",
+					"label3": "Name of Appointee",
+					"errormsg": "Please enter applicant name"
+				},
+				"nameselet": [
+					{
+						"label1": "Policy Owner",
+						"value": "policyowner"
+					},
+					{
+						"label1": "Nominee",
+						"value": "nominee"
+					},
+					{
+						"label1": "Appointee",
+						"value": "appointee"
+					}
+				],
+				"SelectApp": {
+					"label": "Select Applicable<span style='color:red;'>*</span>",
+					"policyholder": "Policy Owner",
+					"appointee": "Appointee",
+					"beneficiary": "Beneficiary",
+					"fathername": "Father Name",
+					"error": "Please select applicable",
+					"checkNominee": "As per your policy feature the policy owner itself is a Nominee. Hence Nominee Name cannot be updated",
+					"checkappointee": "As per your policy feature the policy owner itself is a Nominee or existing Nominee is a major. Hence Appointee is not available and Name cannot be updated",
+					"checkowner": "We regret to inform you that no Policy Holder available for this policy",
+					"checkAssured": "We regret to inform you that no Policy Insured available for this policy",
+					"no_nominee": "Since the existing nominee is a major. An appointee cannot be added to this policy"
+				},
+				"oldname": {
+					"label": "Old Name<span style='color:red;'>*</span>"
+				},
+				"newname": {
+					"label": "New Name<span style='color:red;'>*</span>",
+					"error": "Please enter new name",
+					"checkname": "New name should be different than old name."
+				},
+				"checkname": {
+					"nameValidate": "Name should contain atleast 3 characters.",
+					"error": "Please enter new name"
+				},
+				"selectAdditionProof": {
+					"labelhid": "SELECT DOCUMENT",
+					"label": "Additional documents (If Any)",
+					"selectlbl": "Select",
+					"marrcertificate": "Marriage Certificate",
+					"GazetteCertificate": "Gazette Certificate",
+					"newspaperAdv": "Newspaper Advertisement"
+				},
+				"selectproof": {
+					"labelhid": "SELECT PROOF",
+					"label": "SELECT ID PROOF<span style='color:red;'>*</span>",
+					"aadhar": "Aadhaar Card",
+					"voterid": "Voter Id",
+					"passport": "Passport",
+					"drivinglic": "Driving License",
+					"pancard": "PAN Card",
+					"nrega": "NREGA Job Card",
+					"marriagecertificate": "Marriage Certificate"
+				},
+				"prooftype": {
+					"error": "Please select a valid proof type"
+				},
+				"proofattachment": {
+					"error": "Please upload valid proof.",
+					"aadharerror": "Please Upload Aadhaar Card image",
+					"votererror": "Please upload Voter Id Image",
+					"pasporterror": "Please upload Passport Image",
+					"panerror": "Please upload PAN Card Image",
+					"marrcertificateerror": "Please upload Marriage Certificate Image",
+					"driverror": "Please upload Driving License Image",
+					"nregaerror": "Please upload NREGA Job Card Image",
+					"GazetteCertificateerror": "Please upload gazette certificate",
+					"newspaperAdverror": "Please upload news paper advertisement"
+				},
+				"cancelmsg": {
+					"label": "CANCEL"
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"imagemsg": {
+					"frontimg": "Front Image",
+					"backimg": "Back Image",
+					"img": "Upload",
+					"imgtxt": "Image",
+					"showaadhartext": "Upload Aadhaar Card Image",
+					"showvotertext": "Upload Voter Id Image",
+					"showpantext": "Upload Pan Card Image",
+					"showpassporttext": "Upload Passport Image",
+					"shownregatext": "Upload NREGA Job Card Image",
+					"showdrivtext": "Upload Driving license Image",
+					"frontimgerror": "Please upload front image of ",
+					"backimgerror": "Please upload back image of  ",
+					"adhrtxt": "Aadhaar Card",
+					"votrtxt": "Voter Id",
+					"pasporttxt": "Passport",
+					"drivingtxt": "Driving License",
+					"nregatxt": "NREGA Job Card",
+					"marrcertificateerror": "Upload Marriage Certificate",
+					"gazzetecer": "Upload Gazette Certificate",
+					"newspapcer": "Upload Newspaper Advertisement",
+					"adhrtxtemty": "",
+					"votrtxtemty": "",
+					"pasporttxtemty": "",
+					"drivetxtemty": "",
+					"nregatxtempty": ""
+				},
+				"coloredcpymsg": {
+					"label": "Please upload the clear & colored copy of acceptable proofs to avoid any request rejections"
+				},
+				"agreecheck": {
+					"label": "<span style='color:red;'>*</span>I agree and consent to the terms and conditions mentioned below:"
+				},
+				"condtslbl": {
+					"label": "Terms & Conditions:"
+				},
+				"contn1": {
+					"label": "A masked copy of the Aadhaar Card showing last 4 digits of Aadhaar number to be uploaded."
+				},
+				"contn2": {
+					"label": "PNB MetLife can link the uploaded Aadhaar number to my policy/ies."
+				},
+				"contn3": {
+					"label": "PNB MetLife will not be liable/responsible for any defective masking/unmasking of the Aadhaar number in the uploaded Aadhaar Card."
+				},
+				"contn4": {
+					"label": "Any defectively masked/unmasked Aadhaar Copy if uploaded will be rejected and destroyed."
+				},
+				"agrewithterms": "Please agree with the terms",
+				"disclaimer": {
+					"label": "Note: For change in surname post marriage, please submit a copy of your marriage certificate. For any other request involving significant changes in the name, please submit a Gazette notification or Newspaper Advertisement along with the request. In case of minor name correction please submit standard id proof acceptable to PMLI.",
+					"error": "Please agree on terms and conditions"
+				},
+				"submitbtn": {
+					"label": "SUBMIT"
+				}
+			},
+			"appointeeupdate": {
+				"heading": {
+					"label": "UPDATE APPOINTEE"
+				},
+				"existingapp": {
+					"label": "Existing Appointee",
+					"labelnew": "<span style='color:#0a3c6e;font-weight: 600;'>Please provide New appointee details</span>"
+				},
+				"cancelmsg": {
+					"label": "CANCEL"
+				},
+				"okmsg": {
+					"label": "OK"
+				},
+				"confirm": {
+					"label": "Do you wish to continue existing Nominee.?",
+					"yes": "yes",
+					"no": "No"
+				},
+				"selectNominee": {
+					"label": "Select Nominee<span style='color:red;'>*</span>",
+					"error": "Please select nominee"
+				},
+				"selectsal": {
+					"labelhid": "Select Salutation",
+					"label": "Select Salutation<span style='color:red;'>*</span>",
+					"error": "Please select Salutation"
+				},
+				"firstname": {
+					"label": "First Name<span style='color:red;'>*</span>",
+					"error": "Please enter first name"
+				},
+				"surname": {
+					"label": "Surname<span style='color:red;'>*</span>",
+					"error": "Please enter surname"
+				},
+				"dob": {
+					"label": "Date of Birth<span style='color:red;'>*</span>",
+					"error": "Please select date of birth"
+				},
+				"gender": {
+					"labelhid": "Select Gender",
+					"label": "Select Gender<span style='color:red;'>*</span>",
+					"error": "Please select gender",
+					"malelabel": "Male",
+					"femalabel": "Female",
+					"otherlabel": "Other"
+				},
+				"maritalstatus": {
+					"labelhid": "Marital Status",
+					"label": "Marital Status<span style='color:red;'>*</span>",
+					"error": "Please select marital status",
+					"single": "Single",
+					"married": "Married",
+					"unmarried": "Unmarried",
+					"others": "Others",
+					"divorced": "Divorced",
+					"widowed": "Widowed"
+				},
+				"relationnominee": {
+					"labelhid": "Select Relation",
+					"label": "Relation with Nominee<span style='color:red;'>*</span>",
+					"error": "Please select relation with nominee"
+				},
+				"address": {
+					"label": "Address<span style='color:red;'>*</span>",
+					"error": "Please enter address"
+				},
+				"nationality": {
+					"labelhid": "Select Nationality",
+					"label": "Nationality<span style='color:red;'>*</span>",
+					"error": "Please select nationality"
+				},
+				"decl": {
+					"label": "<span style='color:red;'>*</span> I declare that I am proposing this change of appointee fully understanding the legal implications.",
+					"errlabel": "Please agree with the terms"
+				},
+				"btn": {
+					"label": "SUBMIT"
+				},
+				"country": {
+					"labelhid": "Country",
+					"label": "Country<span style='color:red;'>*</span>",
+					"select_country": {
+						"label": "Select Country",
+						"error": "Please enter country."
+					}
+				},
+				"pincode": {
+					"label": "Pin code<span style='color:red;'>*</span>",
+					"errMsg": "Pincode should be 6 digits",
+					"invalidpin": "Invalid Pincode",
+					"validpincode": "Please enter valid pincode."
+				},
+				"city": {
+					"label": "City<span style='color:red;'>*</span>",
+					"error": "Please enter city."
+				},
+				"state": {
+					"label": "State<span style='color:red;'>*</span>",
+					"error": "Please enter state."
+				},
+				"no": {
+					"label": "CANCEL"
+				}
+			},
+			"claimstatus": {
+				"heading": {
+					"label": "INTIMATE CLAIM"
+				},
+				"NAME": {
+					"label": "POLICY OWNER NAME<span style='color:red;'>*</span>",
+					"nameValidate": "Name should contain atleast 3 characters.",
+					"checkname": "Please enter policy owner name.",
+					"nameMinlenthError": "Name should contain atleast 3 characters."
+				},
+				"policynumber": {
+					"label": "POLICY NUMBER<span style='color:red;'>*</span>",
+					"checkmob": "Please enter a valid policy number.",
+					"validatemob": "Please enter a valid mobile number."
+				},
+				"submitbtn": {
+					"label": "PROCEED"
+				}
+			},
+			"linkpolicy": {
+				"heading": {
+					"label": "Link my policy"
+				},
+				"hdrlbl": {
+					"lbl": "Policy No",
+					"lbl1": "Selected Policy",
+					"lbl2": "Your existing PNB Metlife Policies",
+					"lbl3": "Enter PNB MetLife policy number which you would like to link with your existing policy/s",
+					"lbl4": "Please enter the valid policy number"
+				},
+				"submitbtn": {
+					"label": "Submit"
+				}
+			},
+			"youtubeVideo": {
+				"hdr": "Watch Videos"
+			}
+		}
+	]
+}
